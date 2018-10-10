@@ -68,5 +68,9 @@ article {
 
 .container {
   margin: 0 auto;
-  width: 50%;
+  width: 36%;
+}
+
+.story-text {
+  font-size: 20px
 }
